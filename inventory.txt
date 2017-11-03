@@ -1,0 +1,11 @@
+ID  ITEM        PRICE
+1   hoodie      $20
+2   shirt       $10
+3   jeans       $15
+4   red chucks  $20
+5   blue chucks $20
+6   notebook    $2
+7   pen         $1
+8   binder      $3
+9   laptop      $50
+10  highlighter $1
